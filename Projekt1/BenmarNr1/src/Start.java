@@ -9,6 +9,7 @@ public class Start {
 	
 	public static void doNothing(){
 		System.out.println("nothing");
+		
 	}
 
 }
