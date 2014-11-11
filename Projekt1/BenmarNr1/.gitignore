@@ -1,0 +1,13 @@
+/bin/
+/.classpath
+/.gitignore
+/.project
+/.metadata
+.project
+.settings
+.classpath
+.metadata
+.metadata*
+metadata/**
+/Projekt1/*
+/.metadata
