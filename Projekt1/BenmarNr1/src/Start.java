@@ -5,7 +5,7 @@ public class Start {
 		// TODO Auto-generated method stub
 		System.out.println("Test");
 		doNothing();	
-		doAny("to do!");
+		doAny("GET UPa!!!");
 	}
 	
 	public static void doNothing(){
@@ -13,6 +13,12 @@ public class Start {
 	}
 	
 	public static void doAny(String text){
+	    Integer c;
+	    for(c=1;c<=4;c++)
+	    {	
+	    	System.out.println(c);
+	    	
+	    }
 		System.out.println(text);
 	}
 
