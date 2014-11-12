@@ -9,7 +9,7 @@ public class Start {
 	}
 	
 	public static void doNothing(){
-		System.out.println("nothing 2");
+		System.out.println("nothing 2 3");
 	}
 	
 	public static void doAny(String text){
