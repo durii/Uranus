@@ -5,11 +5,15 @@ public class Start {
 		// TODO Auto-generated method stub
 		System.out.println("Test");
 		doNothing();	
+		doAny("to do!");
 	}
 	
 	public static void doNothing(){
-		System.out.println("everything");
-		
+		System.out.println("nothing");
+	}
+	
+	public static void doAny(String text){
+		System.out.println(text);
 	}
 
 }
